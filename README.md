@@ -2,7 +2,9 @@
 
 - 🎇 I’m currently working on [Dr.Vegetable](https://github.com/LTTBasic/lecttue-diagonosis)
 
-- 📚 I’m currently learning **Machine Learning & Deep Learning**
+- 📚 I’m currently learning **Apache Spark**
+
+- 🎈 My fastime are Photoshop, video editing, pixel art, and violin.
 
 ###
 
