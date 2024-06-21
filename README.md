@@ -1,8 +1,8 @@
-<h2 align="left">Good day! I am SYJung who is interested in Data Engineer from South Korea</h2>
+<h2 align="left">Hi! I'm from South Korea, and I love analyzing and solving things.</h2>
 
 - 🎇 I’m currently working on [Dr.Vegetable](https://github.com/LTTBasic/lecttue-diagonosis)
 
-- 📚 I’m currently learning **Apache Spark**
+- 📚 I’m currently learning **R data analysis and IT INFRA**
 
 - 🎈 My fastime are Photoshop, video editing, pixel art, and violin.
 
